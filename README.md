@@ -3,15 +3,12 @@
 
 ## SOS Project Documentation:
 
-# SOS Project Documentation
-
 The following video depicts my Arduino SOS Signal, which in morse code consists of 3 short flashes, then 3 long flashes, then 3 short flashes.
-
 
 
 Here is the code for the SOS Signal:
 
-'int ledpin = 2;
+` int ledpin = 2;
 
 void setup() {
   // put your setup code here, to run once:
@@ -64,4 +61,4 @@ void loop() {
 
   delay(1000);
 
-} '
+} `
