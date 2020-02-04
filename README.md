@@ -10,15 +10,15 @@ Here is the code for the SOS Signal:
 
 ` int ledpin = 2; `
 
-void setup() {
-  // put your setup code here, to run once:
-  pinMode(ledpin, OUTPUT);
-}
+` void setup() {
+    // put your setup code here, to run once:
+    pinMode(ledpin, OUTPUT);
+} `
 
-void loop() {
-  // put your main code here, to run repeatedly:
+` void loop() {
+  // put your main code here, to run repeatedly: `
   
-  //3 short
+ ` //3 short
     digitalWrite(ledpin, HIGH);
     delay(500);
     digitalWrite(ledpin, LOW);
@@ -30,7 +30,7 @@ void loop() {
     digitalWrite(ledpin, HIGH);
     delay(500);
     digitalWrite(ledpin, LOW);
-    delay(300);
+    delay(300); `
 
   //3 long
     digitalWrite(ledpin, HIGH);
