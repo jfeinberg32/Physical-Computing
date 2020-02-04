@@ -6,7 +6,7 @@
 The following video depicts my Arduino SOS Signal, which in morse code consists of 3 short flashes, then 3 long flashes, then 3 short flashes.
 ![sos arduino](image0.jpeg)
 
-##GIF 
+## GIF 
 ![sos arduino](sosarduino.gif)
 
 Here is the code for the SOS Signal:
