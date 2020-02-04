@@ -60,6 +60,6 @@ Here is the code for the SOS Signal:
         digitalWrite(ledpin, LOW);
         delay(300); `
 
- ` delay(1000);
+ ` delay(1000); `
 
-}`
+`}`
