@@ -6,7 +6,8 @@ The following video depicts my Arduino SOS Signal, which in morse code consists 
 
 Here is the code for the SOS Signal:
 
-'int ledpin = 2;
+```
+int ledpin = 2;
 
 void setup() {
   // put your setup code here, to run once:
@@ -59,4 +60,4 @@ void loop() {
 
   delay(1000);
 
-} '
+} ```
