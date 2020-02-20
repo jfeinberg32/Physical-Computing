@@ -3,6 +3,14 @@
 
 I wanted to create a project that I would enjoy using in my own life. As a result, I felt that calmness was a good choice, because I could theoretically set up the project in my room and enjoy the peacefulness of it whenever I want. I decided to implement a night and day aspect because I thought the fading lights would work well with this. Below, you can see a visual of what this looks like.
 
+### Pictures
+![gif](https://github.com/jfeinberg32/Physical-Computing/blob/master/emotion.gif)
+
+![arduino](https://github.com/jfeinberg32/Physical-Computing/blob/master/arduino.jpeg)
+
+![circuit](https://github.com/jfeinberg32/Physical-Computing/blob/master/circuit.jpeg)
+
+![backview](https://github.com/jfeinberg32/Physical-Computing/blob/master/backview.jpeg)
 
 ### Project Code
 ```
