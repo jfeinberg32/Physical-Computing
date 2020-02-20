@@ -6,9 +6,9 @@ I wanted to create a project that I would enjoy using in my own life. As a resul
 
 ### Project Code
 ```
-int small = 3;
-int medium = 5;
-int large = 6;
+int small = 3; //short led (blue)
+int medium = 5; //medium led (red)
+int large = 6; //tall led (yellow)
 int pushButton = 2;
 
 boolean pressed = 0;
