@@ -36,14 +36,12 @@ boolean pressing = false;
 void setup() {
   pinMode(pResistor, INPUT);
   pinMode(switchPin, INPUT);
-  // Switch on the LCD screen
+  //switch on LCD screen
   lcd.begin(16, 2);
-  // Print these words to my LCD screen
   Serial.begin(9600);
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
   lightAmount = analogRead(pResistor);
   Serial.println(counter);
   switchRead = digitalRead(switchPin);
