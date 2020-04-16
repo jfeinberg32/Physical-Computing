@@ -1,7 +1,7 @@
 # Physical-Computing
 
 ## Playful Experiences Project
-[Project Documentation](https://github.com/jfeinberg32/Physical-Computing/blob/master/Playful-Experiences-Documentation.md)
+[Light Sensor Documentation](https://github.com/jfeinberg32/Physical-Computing/blob/master/Playful-Experiences-Documentation.md)
 
 ## Representing Emotion Project
 [Emotion Documentation](https://github.com/jfeinberg32/Physical-Computing/blob/master/Emotion-Documentation.md)
