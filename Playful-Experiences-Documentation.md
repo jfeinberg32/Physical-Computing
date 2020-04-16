@@ -14,7 +14,8 @@ My playful experiences project will involve a light sensor and LCD screen to giv
 ## Interaction
 The interaction of this interface will be pretty simple. All the user needs to do is press a button, which will cause the photoresistor to read the current ambient light to the Arduino, which will then take the value and send the appropriate interpretation to the LCD screen for the user to view. 
 
-- VIDEO/GIF
+### Demo
+![Demo Gif](https://github.com/jfeinberg32/Physical-Computing/blob/master/LightCircuitDemo.gif)
 
 ## Schematic 
 ![Circuit Schematic](https://github.com/jfeinberg32/Physical-Computing/blob/master/LightCircuit.JPG)
