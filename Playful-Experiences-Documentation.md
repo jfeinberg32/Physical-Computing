@@ -17,7 +17,7 @@ The interaction of this interface will be pretty simple. All the user needs to d
 - VIDEO/GIF
 
 ## Schematic 
-[Circuit Schematic] (Bodacious Turing.png)
+![Circuit Schematic] (Bodacious Turing.png)
 
 ## Code
 ~~~
