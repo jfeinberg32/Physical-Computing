@@ -17,7 +17,7 @@ The interaction of this interface will be pretty simple. All the user needs to d
 - VIDEO/GIF
 
 ## Schematic 
-![Circuit Schematic] (https://github.com/jfeinberg32/Physical-Computing/blob/master/LightCircuit.jpg)
+![Circuit Schematic] (https://github.com/jfeinberg32/Physical-Computing/blob/master/LightCircuit.jpeg)
 
 ## Code
 ~~~
