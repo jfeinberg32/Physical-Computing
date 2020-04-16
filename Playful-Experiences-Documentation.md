@@ -19,6 +19,9 @@ The interaction of this interface will be pretty simple. All the user needs to d
 ## Schematic 
 ![Circuit Schematic] (https://github.com/jfeinberg32/Physical-Computing/blob/master/LightCircuit.JPG)
 
+## 3D Printer
+The 3D printed aspect of this project is the housing that will contain all of the components to create a safe and user friendly way to operate the device.
+
 ## Code
 ~~~
 // Import the Liquid Crystal library
