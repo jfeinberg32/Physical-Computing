@@ -20,7 +20,7 @@ Pressing the button will cause the Arduino to interact with a website that pulls
 ![Demo Gif]()
 
 ## Schematic 
-![Circuit Schematic]()
+![Circuit Schematic](https://github.com/jfeinberg32/Physical-Computing/blob/master/finalSchematic.JPG)
 
 ## 3D Printer
 The 3D printed aspect of this project is the housing that will contain all of the components to create a safe and user friendly way to operate the device.
