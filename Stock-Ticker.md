@@ -17,6 +17,7 @@ My final project will be a stock ticker using the Arduino LCD screen to display 
 Pressing the button will cause the Arduino to interact with a website that pulls the current Dow Jones value from an API. The value will be sent to the Arudino using a serial function, and then displayed on the LCD screen, along with the light/sound feedback based on the value itself. 
 
 ### Demo
+When pressed, if the change in the Dow Jones Value for the day is currently positive (green), the buzzer will emit a high-pitched, positive sounding tone. If the change in value is currently negative (red), the buzzer will emit a low-pitched, negative sounding tone.
 ![Demo Gif](https://github.com/jfeinberg32/Physical-Computing/blob/master/finalDemov2.gif)
 
 ## Schematic 
