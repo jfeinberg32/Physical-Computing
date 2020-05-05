@@ -17,7 +17,7 @@ My final project will be a stock ticker using the Arduino LCD screen to display 
 Pressing the button will cause the Arduino to interact with a website that pulls the current Dow Jones value from an API. The value will be sent to the Arudino using a serial function, and then displayed on the LCD screen, along with the light/sound feedback based on the value itself. 
 
 ### Demo
-![Demo Gif]()
+![Demo Gif](https://github.com/jfeinberg32/Physical-Computing/blob/master/finalDemo.gif)
 
 ## Schematic 
 ![Circuit Schematic](https://github.com/jfeinberg32/Physical-Computing/blob/master/finalSchematic.JPG)
