@@ -18,6 +18,7 @@ Pressing the button will cause the Arduino to interact with a website that pulls
 
 ### Demo
 When pressed, if the change in the Dow Jones Value for the day is currently positive (green), the buzzer will emit a high-pitched, positive sounding tone. If the change in value is currently negative (red), the buzzer will emit a low-pitched, negative sounding tone.
+
 ![Demo Gif](https://github.com/jfeinberg32/Physical-Computing/blob/master/finalDemov2.gif)
 
 ## Schematic 
